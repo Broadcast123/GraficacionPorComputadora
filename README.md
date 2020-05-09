@@ -1,1 +1,1 @@
-# GraficacionPorComputadora
+# GraficaciónPorComputadora
